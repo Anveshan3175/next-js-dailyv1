@@ -60,3 +60,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 - > git add .
 - > git commit -m "test"
 - > git push -u origin main
+
+Tutorial :
+https://www.youtube.com/watch?v=2t6y-bDIe0Y&list=PL6bwFJ82M6FXjyBTVi6WSCWin8q_g_8RR&index=5
+https://masteringnextjs.com/
