@@ -33,4 +33,30 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+1. Create repo in the GIT react-dailyv1 (keep url handy)
+   Don't add Readme
+2. Create same project in your desktop
+   npx create-next-app next-js-dailyv1
+3. Open react-dailyv1 in VSCode
+4. Open Terminal in the VSCode and navigate to folder : next-js-dailyv1
+5. In the terminal, initialize git
+
+- > git init
+- > git add .
+- > git config --global user.username Anveshan3175
+- > git config --global user.email "akunduru4@gmail.com"
+- > git commit -m 'first commit'
+- > git branch -M main
+- > git remote add origin https://github.com/Anveshan3175/next-js-dailyv1.git
+- > git push -u origin main
+
+6. To refresh
+
+- > git init
+- > git pull
+- > make changes
+- > git add .
+- > git commit -m "test"
+- > git push -u origin main
